@@ -47,6 +47,7 @@ print(id(Y))
 print(Y)
 print(X)
 
+print("#####################")
 #택시
 seat = []
 min = 0
