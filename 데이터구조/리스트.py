@@ -13,4 +13,13 @@ print(x)
 print(x[0])
 print(x[1])
 print(x[0][1])
+
 print(x[1][1])
+
+chose_from_two = ('A', 'B', 'C')
+
+answer = []
+answer.append('A')
+answer.append('C')
+print(chose_from_two)
+print(answer)
